@@ -1,0 +1,10 @@
+body{
+    background-image: url(annie.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#gif{
+    width: 50%;
+}
